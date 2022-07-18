@@ -1,0 +1,43 @@
+.header-wrapper{
+    width: 100%;
+    height: auto;
+    background-color: rgb(180, 180, 8);
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+  
+}
+
+.search-field{
+    border-radius: 16px;
+    width: 30%;
+    height: 10px;
+    margin-top: 14px;
+    padding: 19px;
+}
+
+
+.header{
+    margin-top: 0px;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.header-items{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.number{
+    font-size: 15px;
+    position: relative;
+    top: -10px;
+    left: 17px;
+    /* border: 1px solid red; */
+    background-color: green;
+    border-radius: 50%;
+    color: white;
+   
+}
